@@ -13,12 +13,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+#### App Screenshots
 
-|  |  |  |
-|------------|-------------|-------------|
 | Lunch Screen | Todo List   | Add New Todo |
+|------------|-------------|-------------|
 | ![Screenshot](screenshots/todo-lunch-screen.png) | ![Screenshot](screenshots/todo-empty-list.png) | ![Screenshot](screenshots/todo-list.png) |
 | Add New Todo | Mark as Done | Status Message  |
 |![Screenshot](screenshots/todo-add-new.png) | ![Screenshot](screenshots/todo-mark-as-done.png) |![Screenshot](screenshots/todo-update-message.png) |
-|  |  |  |
 
